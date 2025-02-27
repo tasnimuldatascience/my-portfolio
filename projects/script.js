@@ -21,11 +21,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Projects | Portfolio Tasnimul";
-            $("#favicon").attr("href", "/images/favicon.png");
+            $("#favicon").attr("href", "./images/favicon.png");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "/images/favhand.png");
+            $("#favicon").attr("href", "./images/favhand.png");
         }
     });
 
