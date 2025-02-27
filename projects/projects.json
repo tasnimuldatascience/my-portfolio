@@ -1,0 +1,153 @@
+[
+  {
+    "name": "FlightFinder AI",
+    "desc": "An AI-powered flight search and trip planning application leveraging CrewAI, GPT-4o, and custom tools for seamless travel experiences.",
+    "image": "flightfinder-ai",
+    "category": "GenerativeAI",
+    "links": {
+      "view": "https://github.com/tasnimuldatascience/flightfinder-travelplanner-crewai",
+      "code": "https://github.com/tasnimuldatascience/flightfinder-travelplanner-crewai"
+    }
+ },
+ {
+    "name": "DeepSeekR1 RAG",
+    "desc": "A Retrieval-Augmented Generation (RAG) system utilizing Nvidia NIM DeepSeek R1 and FAISS for document-based Q&A with LLM-powered responses.",
+    "image": "deepseekr1-rag",
+    "category": "GenerativeAI",
+    "links": {
+      "view": "https://github.com/tasnimuldatascience/E2E-DeepSeekr1-RAG-NVIDIANIM",
+      "code": "https://github.com/tasnimuldatascience/E2E-DeepSeekr1-RAG-NVIDIANIM"
+    }
+  },
+  {
+    "name": "HF Text Summarizer",
+    "desc": "An end-to-end NLP pipeline for text summarization using Hugging Face Transformers, following MLOps best practices with modular components and API integration.",
+    "image": "hf-text-summarizer",
+    "category": "GenerativeAI",
+    "links": {
+      "view": "https://github.com/tasnimuldatascience/End2End-TextSummarization-HF",
+      "code": "https://github.com/tasnimuldatascience/End2End-TextSummarization-HF"
+    }
+},
+{
+  "name": "LIM-Nutritionist",
+  "desc": "An AI-powered nutrition analysis app using Google Gemini API to analyze food images and estimate caloric intake, built with Streamlit for a seamless user experience.",
+  "image": "lim-nutritionist",
+  "category": "GenerativeAI",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/LIM-Nutritionist-Gemini.git",
+    "code": "https://github.com/tasnimuldatascience/LIM-Nutritionist-Gemini.git"
+  }
+},
+{
+  "name": "Multi-Language Invoice AI",
+  "desc": "A Streamlit-based web application that uses Google's Gemini AI to analyze invoices in multiple languages, providing AI-generated insights and responses.",
+  "image": "multi-language-invoice-ai",
+  "category": "GenerativeAI",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/Multi_Language_Invoice_Extractor.git",
+    "code": "https://github.com/tasnimuldatascience/Multi_Language_Invoice_Extractor.git"
+  }
+},
+{
+  "name": "News Reporter AI",
+  "desc": "An AI-powered news blog generator using CrewAI and Google Gemini API to research and generate tech blogs in Markdown format.",
+  "image": "news-reporter-ai",
+  "category": "GenerativeAI",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/News_Reporter_CrewAI",
+    "code": "https://github.com/tasnimuldatascience/News_Reporter_CrewAI"
+  }
+},
+{
+  "name": "YouTube to Blog AI",
+  "desc": "An AI-powered automation tool that extracts insights from YouTube videos and converts them into structured blog posts using CrewAI.",
+  "image": "youtube-to-blog-ai",
+  "category": "GenerativeAI",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/youtube-to-blog-crewai",
+    "code": "https://github.com/tasnimuldatascience/youtube-to-blog-crewai"
+  }
+},
+{
+  "name": "Multicloud Student Performance AI",
+  "desc": "An end-to-end machine learning project predicting student math scores, deployed using AWS Elastic Beanstalk, AWS EC2, and Azure with Docker.",
+  "image": "student-performance-ai",
+  "category": "MachineLearning",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/E2E-Student-Performance-AWS-Azure",
+    "code": "https://github.com/tasnimuldatascience/E2E-Student-Performance-AWS-Azure"
+  }
+},
+{
+  "name": "Network Security AI",
+  "desc": "An end-to-end machine learning pipeline for network security, featuring automated ETL, threat detection, experiment tracking, and deployment with Docker and AWS.",
+  "image": "network-security-ai",
+  "category": "MachineLearning",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/End2End-NetworkSecurity",
+    "code": "https://github.com/tasnimuldatascience/End2End-NetworkSecurity"
+  }
+},
+{
+  "name": "Wine Quality Prediction AI",
+  "desc": "An end-to-end machine learning pipeline for predicting wine quality, integrating DagsHub for version control and MLflow for experiment tracking.",
+  "image": "wine-quality-ai",
+  "category": "MachineLearning",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/End2End-WineQuality-ML",
+    "code": "https://github.com/tasnimuldatascience/End2End-WineQuality-ML"
+  }
+},
+{
+  "name": "YOLOv11 Streamlit App",
+  "desc": "A Streamlit-based application for real-time object detection, segmentation, and pose estimation using YOLOv11, containerized with Docker and deployed via CI/CD.",
+  "image": "yolo11-streamlit-app",
+  "category": "ComputerVision",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/E2E_ObjectDetection_Segmentation_PoseEstimation_CICD",
+    "code": "https://github.com/tasnimuldatascience/E2E_ObjectDetection_Segmentation_PoseEstimation_CICD"
+  }
+},
+{
+  "name": "Snowflake AQI Visualization",
+  "desc": "An end-to-end solution for ingesting, processing, and visualizing Air Quality Index (AQI) data using Snowflake, Streamlit, and GitHub Actions for automation.",
+  "image": "snowflake-aqi-visualization",
+  "category": "DataEngineering",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/E2E-Snowflake-AQI-Visualization",
+    "code": "https://github.com/tasnimuldatascience/E2E-Snowflake-AQI-Visualization"
+  }
+},
+{
+  "name": "Book Genre Classifier",
+  "desc": "A machine learning-based system using Flask to predict book genres from summaries, with text preprocessing and classification into multiple genres.",
+  "image": "book-genre-classifier",
+  "category": "GenerativeAI",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/book-genre-classification",
+    "code": "https://github.com/tasnimuldatascience/book-genre-classification"
+  }
+},
+{
+  "name": "Fraud Monitoring Grafana",
+  "desc": "A real-time fraud monitoring system for credit card transactions using Grafana for visualization and PostgreSQL on AWS RDS for secure data storage.",
+  "image": "fraud-monitoring-ai",
+  "category": "DataEngineering",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/Fraud-Monitoring-With-Grafana",
+    "code": "https://github.com/tasnimuldatascience/Fraud-Monitoring-With-Grafana"
+  }
+},
+{
+  "name": "Image Watermarking App",
+  "desc": "A Flask-based web application that allows users to add text and logo watermarks to images, with adjustable transparency and positioning, deployed on Heroku.",
+  "image": "image-watermarking-app",
+  "category": "Other",
+  "links": {
+    "view": "https://github.com/tasnimuldatascience/image-watermarking-flask-heroku",
+    "code": "https://github.com/tasnimuldatascience/image-watermarking-flask-heroku"
+  }
+}
+
+]
