@@ -5,7 +5,7 @@
     "image": "flightfinder-ai",
     "category": "GenerativeAI",
     "links": {
-      "view": "https://github.com/tasnimuldatascience/flightfinder-travelplanner-crewai",
+      "view": "https://github.com/tasnimuldatascience/flightfinder-travelplanner-crewai/blob/main/README.md",
       "code": "https://github.com/tasnimuldatascience/flightfinder-travelplanner-crewai"
     }
  },
@@ -15,7 +15,7 @@
     "image": "deepseekr1-rag",
     "category": "GenerativeAI",
     "links": {
-      "view": "https://github.com/tasnimuldatascience/E2E-DeepSeekr1-RAG-NVIDIANIM",
+      "view": "https://github.com/tasnimuldatascience/E2E-DeepSeekr1-RAG-NVIDIANIM/blob/main/README.md",
       "code": "https://github.com/tasnimuldatascience/E2E-DeepSeekr1-RAG-NVIDIANIM"
     }
   },
@@ -25,7 +25,7 @@
     "image": "hf-text-summarizer",
     "category": "GenerativeAI",
     "links": {
-      "view": "https://github.com/tasnimuldatascience/End2End-TextSummarization-HF",
+      "view": "https://github.com/tasnimuldatascience/End2End-TextSummarization-HF/blob/main/README.md",
       "code": "https://github.com/tasnimuldatascience/End2End-TextSummarization-HF"
     }
 },
@@ -35,8 +35,8 @@
   "image": "lim-nutritionist",
   "category": "GenerativeAI",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/LIM-Nutritionist-Gemini.git",
-    "code": "https://github.com/tasnimuldatascience/LIM-Nutritionist-Gemini.git"
+    "view": "https://github.com/tasnimuldatascience/LIM-Nutritionist-Gemini/blob/main/README.md",
+    "code": "https://github.com/tasnimuldatascience/LIM-Nutritionist-Gemini"
   }
 },
 {
@@ -45,8 +45,8 @@
   "image": "multi-language-invoice-ai",
   "category": "GenerativeAI",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/Multi_Language_Invoice_Extractor.git",
-    "code": "https://github.com/tasnimuldatascience/Multi_Language_Invoice_Extractor.git"
+    "view": "https://github.com/tasnimuldatascience/Multi_Language_Invoice_Extractor/blob/main/README.md",
+    "code": "https://github.com/tasnimuldatascience/Multi_Language_Invoice_Extractor"
   }
 },
 {
@@ -55,7 +55,7 @@
   "image": "news-reporter-ai",
   "category": "GenerativeAI",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/News_Reporter_CrewAI",
+    "view": "https://github.com/tasnimuldatascience/News_Reporter_CrewAI/blob/main/README.md",
     "code": "https://github.com/tasnimuldatascience/News_Reporter_CrewAI"
   }
 },
@@ -65,7 +65,7 @@
   "image": "youtube-to-blog-ai",
   "category": "GenerativeAI",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/youtube-to-blog-crewai",
+    "view": "https://github.com/tasnimuldatascience/youtube-to-blog-crewai/blob/main/README.md",
     "code": "https://github.com/tasnimuldatascience/youtube-to-blog-crewai"
   }
 },
@@ -75,7 +75,7 @@
   "image": "student-performance-ai",
   "category": "MachineLearning",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/E2E-Student-Performance-AWS-Azure",
+    "view": "https://github.com/tasnimuldatascience/E2E-Student-Performance-AWS-Azure/blob/main/README.md",
     "code": "https://github.com/tasnimuldatascience/E2E-Student-Performance-AWS-Azure"
   }
 },
@@ -85,7 +85,7 @@
   "image": "network-security-ai",
   "category": "MachineLearning",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/End2End-NetworkSecurity",
+    "view": "https://github.com/tasnimuldatascience/End2End-NetworkSecurity/blob/main/README.md",
     "code": "https://github.com/tasnimuldatascience/End2End-NetworkSecurity"
   }
 },
@@ -95,7 +95,7 @@
   "image": "wine-quality-ai",
   "category": "MachineLearning",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/End2End-WineQuality-ML",
+    "view": "https://github.com/tasnimuldatascience/End2End-WineQuality-ML/blob/main/README.md",
     "code": "https://github.com/tasnimuldatascience/End2End-WineQuality-ML"
   }
 },
@@ -105,7 +105,7 @@
   "image": "yolo11-streamlit-app",
   "category": "ComputerVision",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/E2E_ObjectDetection_Segmentation_PoseEstimation_CICD",
+    "view": "https://github.com/tasnimuldatascience/E2E_ObjectDetection_Segmentation_PoseEstimation_CICD/blob/main/README.md",
     "code": "https://github.com/tasnimuldatascience/E2E_ObjectDetection_Segmentation_PoseEstimation_CICD"
   }
 },
@@ -115,7 +115,7 @@
   "image": "snowflake-aqi-visualization",
   "category": "DataEngineering",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/E2E-Snowflake-AQI-Visualization",
+    "view": "https://github.com/tasnimuldatascience/E2E-Snowflake-AQI-Visualization/blob/main/README.md",
     "code": "https://github.com/tasnimuldatascience/E2E-Snowflake-AQI-Visualization"
   }
 },
@@ -125,7 +125,7 @@
   "image": "book-genre-classifier",
   "category": "GenerativeAI",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/book-genre-classification",
+    "view": "https://github.com/tasnimuldatascience/book-genre-classification/blob/main/README.md",
     "code": "https://github.com/tasnimuldatascience/book-genre-classification"
   }
 },
@@ -135,7 +135,7 @@
   "image": "fraud-monitoring-ai",
   "category": "DataEngineering",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/Fraud-Monitoring-With-Grafana",
+    "view": "https://github.com/tasnimuldatascience/Fraud-Monitoring-With-Grafana/blob/main/README.md",
     "code": "https://github.com/tasnimuldatascience/Fraud-Monitoring-With-Grafana"
   }
 },
@@ -145,7 +145,7 @@
   "image": "image-watermarking-app",
   "category": "Other",
   "links": {
-    "view": "https://github.com/tasnimuldatascience/image-watermarking-flask-heroku",
+    "view": "https://github.com/tasnimuldatascience/image-watermarking-flask-heroku/blob/main/README.md",
     "code": "https://github.com/tasnimuldatascience/image-watermarking-flask-heroku"
   }
 }
