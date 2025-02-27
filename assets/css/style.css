@@ -1223,3 +1223,24 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
+
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+.image img {
+  max-width: 90%;
+  height: auto;
+  display: block;
+}
+
+@media screen and (max-width: 768px) {
+  .image img {
+      max-width: 80%;
+  }
+}
