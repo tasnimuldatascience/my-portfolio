@@ -1,6 +1,6 @@
 [
   {
-    "name": "FlightFinder AI",
+    "name": "FlightFinder & Travel Planner",
     "desc": "An AI-powered flight search and trip planning application leveraging CrewAI, GPT-4o, and custom tools for seamless travel experiences.",
     "image": "flightfinder-ai",
     "category": "GenerativeAI",
@@ -10,8 +10,8 @@
     }
  },
  {
-    "name": "DeepSeekR1 RAG",
-    "desc": "A Retrieval-Augmented Generation (RAG) system utilizing Nvidia NIM DeepSeek R1 and FAISS for document-based Q&A with LLM-powered responses.",
+    "name": "E2E DeepSeekR1 RAG",
+    "desc": "A RAG system utilizing Nvidia NIM DeepSeek R1 and FAISS for document-based Q&A with LLM-powered responses.",
     "image": "deepseekr1-rag",
     "category": "GenerativeAI",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "HF Text Summarizer",
-    "desc": "An end-to-end NLP pipeline for text summarization using Hugging Face Transformers, following MLOps best practices with modular components and API integration.",
+    "desc": "An end-to-end text summarization using Hugging Face Transformers, following MLOps best practices",
     "image": "hf-text-summarizer",
     "category": "GenerativeAI",
     "links": {
@@ -30,7 +30,7 @@
     }
 },
 {
-  "name": "LIM-Nutritionist",
+  "name": "E2E LIM-Nutritionist",
   "desc": "An AI-powered nutrition analysis app using Google Gemini API to analyze food images and estimate caloric intake, built with Streamlit for a seamless user experience.",
   "image": "lim-nutritionist",
   "category": "GenerativeAI",
@@ -50,7 +50,7 @@
   }
 },
 {
-  "name": "News Reporter AI",
+  "name": "Multi Agent News Reporter",
   "desc": "An AI-powered news blog generator using CrewAI and Google Gemini API to research and generate tech blogs in Markdown format.",
   "image": "news-reporter-ai",
   "category": "GenerativeAI",
@@ -70,7 +70,7 @@
   }
 },
 {
-  "name": "Multicloud Student Performance AI",
+  "name": "Multicloud Student Performance",
   "desc": "An end-to-end machine learning project predicting student math scores, deployed using AWS Elastic Beanstalk, AWS EC2, and Azure with Docker.",
   "image": "student-performance-ai",
   "category": "MachineLearning",
