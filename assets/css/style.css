@@ -1258,10 +1258,11 @@ form .button-area {
 
 .publication-card {
   background: #fff;
-  border-radius: 12px;
+  border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  width: 320px;
+  width: 100%;
+  max-width: 320px; /* Ensure cards have a max width */
   text-align: center;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -1272,9 +1273,10 @@ form .button-area {
 }
 
 .publication-image {
-  width: 100%;
-  height: 180px;
+  width: 100%;  /* Ensures images are responsive */
+  height: auto; /* Maintains aspect ratio */
   object-fit: cover;
+  max-height: 180px; /* Prevents images from being too tall */
 }
 
 .publication-content {
@@ -1304,8 +1306,22 @@ form .button-area {
   background: #0056b3;
 }
 
-.heading {
+.viewall {
   text-align: center;
-  font-size: 24px;
-  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.viewall .btn {
+  background: #007bff;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.viewall .btn:hover {
+  background: #0056b3;
 }
