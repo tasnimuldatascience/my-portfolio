@@ -149,6 +149,10 @@
         "icon": "./assets/images/skills/phidata.png"
     },
     {
+        "name": "LangGraph",
+        "icon": "./assets/images/skills/langgraph.png"
+    },
+    {
         "name": "LlamaIndex",
         "icon": "./assets/images/skills/llamaindex.jpeg"
     },
